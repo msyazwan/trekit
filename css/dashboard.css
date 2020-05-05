@@ -1,0 +1,30 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    display: inline-block;
+}
+
+.course-title {
+    margin: 20px 40px 0 40px !important;
+    padding: 10px 10px !important;
+    border: black solid 1px;
+    border-bottom: rgb(255, 255, 255) solid 5px;
+    background-color: rgb(68, 68, 68);
+    color: seashell;
+}
+
+ol li {
+    margin: 0 40px 0 40px !important;
+    padding: 10px 50px !important;
+    border: rgb(0, 0, 0) solid 1px;
+    background-color: rgb(219, 219, 219);
+}
